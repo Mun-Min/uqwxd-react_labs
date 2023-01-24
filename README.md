@@ -9,8 +9,6 @@ https://user-images.githubusercontent.com/108703181/214192437-694f1206-3461-4fad
 ### Objectives
 In this lab, you will be building a TODO list application using React components.You will discover how to create, view, delete, complete, modify and save to-do lists.
 
-Objective:
-
     1. After completing this lab, you will be able to:
 
     2. Use event handler for creating add todo task.
