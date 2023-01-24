@@ -4,9 +4,9 @@
   course offered by IBM (which is course 4 of the IBM Full Stack Developer Professional Certification Program).
 
 ### To-Do-List Application Demo
-https://user-images.githubusercontent.com/108703181/214192049-97179b36-3259-4494-a1d3-9ee6b79ab31b.mp4
+https://user-images.githubusercontent.com/108703181/214192437-694f1206-3461-4fad-b9a1-f26513f1af28.mp4
 
-
+### Objectives
 In this lab, you will be building a TODO list application using React components.You will discover how to create, view, delete, complete, modify and save to-do lists.
 
 Objective:
