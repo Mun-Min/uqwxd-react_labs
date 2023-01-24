@@ -85,8 +85,13 @@ const App = () => {
         />
         <button type="submit">Add Todo</button>
       </form>
+      // The code block is using the map function to iterate through an array of "todos"
+      // and creating a new "div" element for each todo item in the array. 
+      // The "key" prop is being set to the "id" property of the todo item and the "className" 
+      // prop is being set to "todo". The div elements are likely being rendered on the page to display the todo items in a list.
       {todos.map((todo) => (
         <div key={todo.id} className="todo">
+          
           <div className="todo-text">
             <input
               type="checkbox"
