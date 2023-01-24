@@ -9,16 +9,16 @@ https://user-images.githubusercontent.com/108703181/214192437-694f1206-3461-4fad
 ### Objectives
 In this lab, you will be building a TODO list application using React components.You will discover how to create, view, delete, complete, modify and save to-do lists.
 
-    1. After completing this lab, you will be able to:
+    After completing this lab, you will be able to:
 
-    2. Use event handler for creating add todo task.
+    1. Use event handler for creating add todo task.
 
-    3. Delete the completed task from todo list using filter method.
+    2. Delete the completed task from todo list using filter method.
 
-    4. Add the Toggle function and checkbox to check completed or not completed task.
+    3. Add the Toggle function and checkbox to check completed or not completed task.
 
-    5. Edit a added Todo task and submit it using map function.
+    4. Edit a added Todo task and submit it using map function.
 
-    6. Use the UseEffect hook to save new todos into localstorage.
+    5. Use the UseEffect hook to save new todos into localstorage.
 
 
